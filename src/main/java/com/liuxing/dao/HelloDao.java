@@ -8,5 +8,6 @@ package com.liuxing.dao;
 public class HelloDao {
     public static void main(String[] args) {
         System.out.println("今天是个好日子啊@@@@");
+        System.out.println("今天天气真的冷啊!!!!");
     }
 }
